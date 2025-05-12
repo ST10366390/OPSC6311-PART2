@@ -1,1 +1,8 @@
 # OPSC6311-PART2
+Nomisma is a powerful, user-friendly mobile application developed to help individuals take control of their personal finances. In today’s fast-paced world, many people struggle to keep track of their income and expenses, often leading to poor financial decisions or unnecessary debt. Nomisma directly addresses this challenge by offering a simple yet effective platform for tracking and managing daily financial activity.
+
+The app allows users to record every income and expense in real-time, categorize transactions (e.g., groceries, transport, savings), and instantly view their current balance. Through visual summaries and transaction history, users gain a clear understanding of their spending habits and can identify areas for improvement. Whether the goal is to save more, reduce debt, or simply understand where the money is going, Nomisma makes financial awareness accessible and actionable.
+
+From a stakeholder perspective, Nomisma is positioned in a market that continues to grow as financial literacy becomes a top priority for individuals, especially younger users and those living paycheck to paycheck. The app’s clean interface, efficient data storage using SQLite, and potential for future expansion—such as monthly budgeting goals, reminders, and data syncing—make it both scalable and relevant.
+
+Investing in or supporting Nomisma means backing a tool that empowers users to build healthier financial habits, one transaction at a time. With its potential for high user engagement and impact, Nomisma is not just another expense tracker—it’s a step toward financial empowerment.
